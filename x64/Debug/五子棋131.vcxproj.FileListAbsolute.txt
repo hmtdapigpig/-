@@ -1,0 +1,2 @@
+D:\C++\B类题\五子棋2\五子棋131\x64\Debug\五子棋131.exe
+D:\360MoveData\Users\86130\Desktop\五子棋131\x64\Debug\五子棋131.exe

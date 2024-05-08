@@ -1,0 +1,19 @@
+﻿  Chess.cpp
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(46,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(49,15): warning C4305: “=”: 从“chess_kind_t”到“bool”截断
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(66,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(66,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(67,56): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(67,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(80,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(81,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(83,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(84,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(85,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(92,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(103,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(114,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(125,13): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(142,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\360MoveData\Users\86130\Desktop\五子棋131\Chess.cpp(143,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  五子棋131.vcxproj -> D:\360MoveData\Users\86130\Desktop\五子棋131\x64\Debug\五子棋131.exe
